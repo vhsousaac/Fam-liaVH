@@ -1,28 +1,3 @@
-# FamíliaVH
-Texto Memória Família VH
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <title>Família</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      font-family: Arial, Helvetica, sans-serif;
-      max-width: 720px;
-      margin: 40px auto;
-      padding: 0 20px;
-      line-height: 1.6;
-      color: #111;
-    }
-    h1 {
-      text-align: center;
-      margin-bottom: 32px;
-    }
-  </style>
-</head>
-<body>
-
 <h1>Família</h1>
 
 <p>Este traço começa com um batimento.<br>
